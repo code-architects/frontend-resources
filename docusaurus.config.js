@@ -9,7 +9,7 @@ const config = {
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   organizationName: 'code-architects',
-  projectName: 'docusaurus',
+  projectName: 'frontend-resources',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
