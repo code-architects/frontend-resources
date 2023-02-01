@@ -4,13 +4,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Frontend Resources',
-  tagline: '@code-architects',
+  tagline: 'A curated list of Frontend Resources',
   favicon: 'img/favicon.ico',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://resourcestack.netlify.app/',
   baseUrl: '/',
   organizationName: 'code-architects',
   projectName: 'frontend-resources',
-
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   i18n: {
