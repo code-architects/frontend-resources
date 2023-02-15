@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-# Description (with images)
+# Description (with image if applicable)
