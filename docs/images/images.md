@@ -7,3 +7,5 @@ Resources of Stock Images sites
 - [Pexels](https://www.pexels.com/)
 - [Adobe Stock](https://stock.adobe.com/)
 - [ShutterStock](https://www.shutterstock.com/)
+- [picjumbo](https://picjumbo.com/)
+- [stocksnap](https://stocksnap.io/)

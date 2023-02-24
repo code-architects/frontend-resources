@@ -10,3 +10,8 @@ Resources of Code Challenge Sites
 - [CodeChef](https://www.codechef.com/)
 - [LeetCode](https://leetcode.com/)
 - [Exercism](https://exercism.org/)
+- [InterviewBuddy](https://interviewbuddy.in/)
+- [AlgoExpert](https://www.algoexpert.io/product)
+- [Coderbyte](https://coderbyte.com/)
+- [InterviewBit](https://www.interviewbit.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
