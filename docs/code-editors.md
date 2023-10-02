@@ -1,6 +1,7 @@
 # Code Editors
 
-- [Visual Studio](https://code.visualstudio.com/) - 💖
+- [VS Code](https://code.visualstudio.com/) - 💖
+- [Visual Studio](https://visualstudio.microsoft.com/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Atom](https://atom.io)
 - [Notepad++](https://notepad-plus-plus.org/downloads/)

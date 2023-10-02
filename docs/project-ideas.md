@@ -9,6 +9,9 @@ A list of projects ideas
 | Calculator | A simple calculator App with JavaScript | Beginner |
 | Digital Clock | Display current time in Digital Format | Beginner |
 | To Do List | App to manage tasks & to-dos | Beginner |
+| Countdown Timer | A flexible code project for creating customizable countdown timers | Beginner |
+| Responsive Gallery Page | Adaptable gallery page for showcasing images or content across different devices | Beginner |
+| Custom Loader | Designing and implementing unique loading animations and graphics | Beginner |
 | Rock Paper & Scissors | A game of chance and strategy played between two people | Beginner |
 | Social Media Icons | Share/Open Social Media Icons | Beginner |
 | Star Rating | Component that allows users to rate a product or service with a 1 to 5-star rating | Beginner |
@@ -20,4 +23,4 @@ A list of projects ideas
 | API Response app | Display result after fetching data from API | Beginner |
 | Shrink Navbar on Scroll | A user interface effect where the navigation bar reduces in size as the user scrolls | Beginner |
 | Google Homepage Clone | A replica of the Google search engine homepage | Beginner |
-| Restaurant Website | A website for a restaurant that showcases their menu, location, and other information | Beginner |
+| Restaurant Website | A website for a restaurant that showcases their menu, location, and other information | Intermediate |
