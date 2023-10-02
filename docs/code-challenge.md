@@ -16,3 +16,7 @@ Resources of Code Challenge Sites
 - [Coderbyte](https://coderbyte.com)
 - [InterviewBit](https://www.interviewbit.com)
 - [GeeksforGeeks](https://www.geeksforgeeks.org)
+
+## Interview Preparations
+
+- [takeUforward](https://takeuforward.org/)
