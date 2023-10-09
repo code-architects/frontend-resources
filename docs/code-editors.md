@@ -10,3 +10,4 @@
 - [lapce](https://lapce.dev/) - Pre-aplha stage
 - [Webstorm](https://www.jetbrains.com/webstorm/)
 - [Brackets](https://brackets.io/)
+- [Zed](https://zed.dev/)

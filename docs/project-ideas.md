@@ -24,3 +24,4 @@ A list of projects ideas
 | Shrink Navbar on Scroll | A user interface effect where the navigation bar reduces in size as the user scrolls | Beginner |
 | Google Homepage Clone | A replica of the Google search engine homepage | Beginner |
 | Restaurant Website | A website for a restaurant that showcases their menu, location, and other information | Intermediate |
+| Blog CMS | A webapp where users can Create blogs using a wysiwyg input box| Intermediate |
