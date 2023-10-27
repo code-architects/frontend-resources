@@ -25,3 +25,11 @@ A list of projects ideas
 | Google Homepage Clone | A replica of the Google search engine homepage | Beginner |
 | Restaurant Website | A website for a restaurant that showcases their menu, location, and other information | Intermediate |
 | Blog CMS | A webapp where users can Create blogs using a wysiwyg input box| Intermediate |
+| E-commerce Website | Build a fully functional e-commerce website with features | Intermediate |
+| Recipe Finder | Create a web app that allows users to search for recipes based on ingredients | Intermediate |
+| Task Manager | Build a task management application with features like task creation, priority levels, due dates | Intermediate |
+| Music Player | Create a web-based music player with features for managing playlists, playing music | Intermediate |
+| Data Visualization Platform | Create a platform that allows users to import, visualize, and interact with large datasets | Hard |
+| Blockchain-Based DApp | Create a frontend for a decentralized application (DApp) that interacts with a blockchain | Hard |
+| Video Editing Web App | Develop a web-based video editing application that allows users to edit and export videos | Hard |
+| Highly Secure Messaging App | Build an end-to-end encrypted messaging application with strong security features | Hard |
